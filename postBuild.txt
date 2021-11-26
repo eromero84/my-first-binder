@@ -1,1 +1,0 @@
-wget -q -O https://i0000.clarodrive.com/s/i2PnZYoLofxdcPm/download
